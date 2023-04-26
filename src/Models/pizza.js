@@ -1,7 +1,7 @@
 class Pizza {
     id;
     nombre;
-    libregluten;
+    libreGluten;
     importe;
     descripcion;
 }
